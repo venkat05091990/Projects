@@ -2,5 +2,6 @@ https://www.novixys.com/blog/apache-spark-aws-cluster-setup/#:~:text=%20Apache%2
 
 https://www.tutorialkart.com/apache-spark/how-to-setup-an-apache-spark-cluster/
 
-
 https://yusufghazi.wordpress.com/tag/how-to-create-a-hadoop-cluster-on-amazon-ec2/#:~:text=%20QUICK%20HADOOP%20SINGLE%20NODE%20CLUSTER%20%28pseudo%20distributed,EC2%20instance%20and%20start%20using%20hadoop%20More%20
+
+https://becominghuman.ai/installing-jupyter-notebook-on-aws-ec2-ubuntu-deep-learning-image-6364dda2fc38
