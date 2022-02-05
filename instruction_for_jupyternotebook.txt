@@ -1,0 +1,35 @@
+# pre setup
+sudo apt-get update
+sudo apt-get install python3-pip
+sudo apt-get install python3-venv
+
+# create environment on directory pyenv
+python3 -m venv pyenv
+
+# activate the environment
+source pyenv/bin/activate
+
+# install jupyter lab
+pip3 install jupyterlab
+
+# config jupyter
+jupyter notebook --generate-config
+
+# setup password
+jupyter notebook password
+
+# this can be done on jupyter_notebook_config.py
+jupyter-lab --ip 0.0.0.0 --no-browser --allow-root
+
+# open jupyter notebook
+jupyter-lab --ip 0.0.0.0 --no-browser --allow-root
+
+# use public ip of aws ec2 instance
+http://public_ip4:8888
+enter the password
+
+
+# open jupyter lab (persistent even after closing the ssh session)
+nohup jupyter-lab --ip 0.0.0.0 --no-browser --allow-root &
+# open jupyter notebook  (persistent even after closing the ssh session)
+nohup jupyter-notebook --ip 0.0.0.0 --no-browser --allow-root &
