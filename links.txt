@@ -1,3 +1,6 @@
 https://www.novixys.com/blog/apache-spark-aws-cluster-setup/#:~:text=%20Apache%20Spark%20%E2%80%93%20Setup%20Cluster%20on%20AWS,the%20cluster.%20This%20is%20where%20you...%20More%20
 
 https://www.tutorialkart.com/apache-spark/how-to-setup-an-apache-spark-cluster/
+
+
+https://yusufghazi.wordpress.com/tag/how-to-create-a-hadoop-cluster-on-amazon-ec2/#:~:text=%20QUICK%20HADOOP%20SINGLE%20NODE%20CLUSTER%20%28pseudo%20distributed,EC2%20instance%20and%20start%20using%20hadoop%20More%20
